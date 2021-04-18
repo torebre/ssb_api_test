@@ -1,0 +1,1 @@
+{"queryObj":{"query":[{"code":"BostedMann","selection":{"filter":"item","values":["0","30","01","99","9999"]}},{"code":"ContentsCode","selection":{"filter":"item","values":["Skillsmisser","Seperasjoner"]}},{"code":"Tid","selection":{"filter":"item","values":["1966","1967","1968","2019","2020"]}}],"response":{"format":"json-stat2"}},"tableIdForQuery":"09660"}
